@@ -18,13 +18,3 @@ Founder of **ARKsrv** — a hosting platform for developers.
 ### 🚀 Current Project
 
 **[ARKsrv](https://arksrv.cam)** — A live VPS project offering isolated hosting environments for Python apps, Node.js services, and Telegram bots using Docker.
-
----
-
-### 📫 How to Reach Me
-
-- 🌐 **My Project:** [ARKsrv](https://arksrv.cam)
-- 💼 **LinkedIn:** [visit](https://www.linkedin.com/in/yazan-kh)
-- 📧 **Email:** [admin@arksrv.cam](mailto:admin@arksrv.cam)
-- 📘 **Facebook:** [visit](https://www.facebook.com/profile.php?id=61577802796718)
-- 💬 **WhatsApp:** [Chat with me](https://wa.me/+963996125895)
