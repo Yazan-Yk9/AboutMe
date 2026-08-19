@@ -12,9 +12,3 @@ Founder of **ARKsrv** — a hosting platform for developers.
 - 🐋 **Containerization:** Deploying and managing isolated environments using Docker.
 - 🌐 **Networking:** Handling DHCP, DNS filtering, and routing for fully functional local networks.
 - ⚙️ **Automation:** Writing Bash and Python scripts for backups, monitoring, and maintenance.
-
----
-
-### 🚀 Current Project
-
-**[ARKsrv](https://arksrv.cam)** — A live VPS project offering isolated hosting environments for Python apps, Node.js services, and Telegram bots using Docker.
